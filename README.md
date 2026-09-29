@@ -8,9 +8,6 @@
 - Total Customers: 100
 - Gender: Female 49, Male 51
 - Top City: Imphal (3 customers)
-- Age Group: (udya add karu)
-
-## Screenshots
-Dashboard cha screenshot ithe upload kar
+- Age Group: To be added
 
 Created by Radhika - Aspiring Data Analyst
